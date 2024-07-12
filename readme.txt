@@ -1,4 +1,4 @@
-Git merge
+Git can merge
 <<<<<<< HEAD
 Creating a new branch is quick and simple
 =======
