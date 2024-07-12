@@ -1,3 +1,4 @@
+Git Bug branch
 Git merge
 <<<<<<< HEAD
 Creating a new branch is quick and simple
